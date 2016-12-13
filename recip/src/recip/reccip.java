@@ -1,4 +1,4 @@
-package recip;
+ package recip;
 
 import java.util.Scanner;
 
